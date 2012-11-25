@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Image Processor">
+    <introduction>
+        <p>Processor is a simple image processor that generates frammed images from a given source directory.
+   See the screenshot description for more information.
+        </p>
+        <p>To use the application, just give the source and target directories.</p>
+        <p>If you wish to protect your images with a copyright message, you can also give one.</p>
+        <p>Finally set how much to keep from the original size from the source images.</p>
+        <p>The generated images will be framed with the copyright message on the lower right corner.</p>
+        <p>It was developed in Java and it requires at least version 5.</p>
+    </introduction>
+    <screenshots>
+        <screenshot image="processor.jpg" alt="Application">
+            The application dialog.
+        </screenshot>
+    </screenshots>
+<downloads>
+    <download href="ImageProcessor.zip" title="Netbeans Project">
+            The Netbeans project and source code of the programm.
+    </download>
+    <download href="processor.zip" title="Application">
+            Compiled application.
+    </download>
+</downloads>
+</project>
